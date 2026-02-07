@@ -2,7 +2,7 @@
 
 This project is a standalone Bitcoin price tracker built using an ESP32 DevKit V1 and a 1.8-inch SPI TFT display. It fetches the live Bitcoin price in USD from the CoinGecko API and displays it on the screen along with the current time. Once programmed, the device runs independently and does not require a computer to stay connected.
 
-![image alt](https://github.com/Shrey296/esp32-bitcoin-price-tracker/blob/main/esp32%20btc%20tracker.jpeg?raw=true)
+![image alt](https://github.com/Shrey296/esp32-bitcoin-price-tracker/blob/8f9dee1840b0ff07c82029ea9870a486562fd3d7/esp32%20btc%20tracker%20pic.jpeg)
 
 This was my first complete ESP32 project involving hardware interfacing, WiFi networking, HTTPS communication, and display handling. The objective was not to build something perfect, but to learn by building something real.
 
